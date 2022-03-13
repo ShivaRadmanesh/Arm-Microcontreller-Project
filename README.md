@@ -1,7 +1,7 @@
 # Othello
 <br>
 
-Othello is a board game (also known as <i>Reversi</i>) for two players, played on an 8×8 uncheckered board. This project is an implementation of this game to be run on an ARM-STM32 F3Discovery microcontroller. 
+Othello is a board game (also known as Reversi) for two players, played on an 8x8 uncheckered board. This project is an implementation of this game to run on ARM-STM32F3Discovery microcontrollers.
 
 <p float="center">
 <img src="readmeImages/1.jpg" width="500px">
